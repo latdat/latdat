@@ -10,15 +10,10 @@
 </p>
 
 ---
-
-###  About Me:
--  I’m currently working on **Data Engineering projects** (Streaming & ELT pipelines).
--  I’m currently learning **Spark, Airflow, and Cloud Services (AWS)**.
-
 ### 🛠 Tech Stack:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,sql,postgres,docker,aws,github,linux&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,sql,postgres,kafka,terraform,airflow,docker,aws, azure,github&theme=dark" />
   </a>
 </p>
 
@@ -28,9 +23,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=latdat&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 
----
 
-###  Connect with me:
-<p align="left">
-  <a href="mailto:phucvinh235371@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</p>
