@@ -14,7 +14,7 @@
 ### Tech Stack:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,sql,postgres,kafka,terraform,airflow,docker,aws,azure,github&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,spark,postgres,kafka,terraform,docker,aws,azure,github&theme=dark" />
   </a>
 </p>
 
