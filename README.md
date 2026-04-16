@@ -5,10 +5,30 @@
 </p>
 
 <p align="center">
-  <strong>Second-year student at Hanoi University of Science and Technology (HUST)</strong><br>
-  <em>Major: Applied Mathematics and Informatics | Goal: Data Engineer</em>
+  <strong>Aspiring Data Engineer / Analytics Engineer</strong><br>
+  Python • SQL • AWS • Data Modeling
+</p>
+
+<p align="center">
+   <em>Applied Mathematics & Informatics @ HUST</em>
 </p>
 
 ---
 
+###  Focus: Data Modeling & Architecture
+- **Core:** Designing scalable schemas (Star, Snowflake), ERD, and Data Warehousing.
+- **Foundations:** Building reliable pipelines & IaC to support data delivery.
 
+###  Tech Stack:
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,postgres,mysql,dbt,airflow&theme=dark" /><br>
+    <img src="https://skillicons.dev/icons?i=docker,terraform,aws,azure,github,linux&theme=dark" />
+  </a>
+</p>
+
+###  GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=latdat&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=latdat&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
